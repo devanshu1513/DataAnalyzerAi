@@ -1,6 +1,6 @@
 Absolutely. Below is the **copy-paste-ready README**, keeping your existing structure and adding the contribution section without unnecessarily rewriting the whole project.
 
-# AI-Data-Analyzer
+# AI-Based Data Analyzer
 
 <img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784651004/wmrc9tkchwggidppyu66.webp"/>
 
